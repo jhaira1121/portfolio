@@ -1,7 +1,0 @@
-PROJECT SCREENSHOTS GO HERE
-Save your pictures in this folder with these names (or change the paths in script.js):
-  project-01-thumb.png    picture shown on the project card
-  project-01-screen1.png  picture shown inside the project details
-  project-01-screen2.png  (optional) another detail picture
-  project-02-thumb.png ... and so on
-Tips: no spaces in filenames, keep each picture under about 1 MB.

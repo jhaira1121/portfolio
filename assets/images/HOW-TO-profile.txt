@@ -1,3 +1,0 @@
-Save your profile picture here as: profile.jpg
-Save your resume PDF here as: resume.pdf, then set resumePdf: "assets/images/resume.pdf" in script.js.
-Certificate scans go in the certificates folder.
