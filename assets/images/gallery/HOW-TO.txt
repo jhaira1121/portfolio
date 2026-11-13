@@ -1,0 +1,4 @@
+GALLERY PHOTOS GO HERE
+Save your photos in this folder as photo-01.jpg, photo-02.jpg, photo-03.jpg ...
+Then change the captions in the "gallery" list in script.js.
+Tips: no spaces in filenames, keep each photo under about 1 MB.
